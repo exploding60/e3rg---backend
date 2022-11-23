@@ -1,0 +1,19 @@
+{
+  "name": "e3rg---backend",
+  "version": "1.0.0",
+  "description": "hireapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exploding60/e3rg---backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exploding60/e3rg---backend/issues"
+  },
+  "homepage": "https://github.com/exploding60/e3rg---backend#readme"
+}
